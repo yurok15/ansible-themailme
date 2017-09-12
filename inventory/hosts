@@ -1,0 +1,13 @@
+[asterisk]
+ast-outbound.themail.me
+ast-inbound.themail.me
+
+[vpn-proxy]
+proxy-active.themail.me
+proxy-passive.themail.me
+
+[vpn]
+vpn-active.themail.me
+vpn-passive.themail.me
+
+[mail]

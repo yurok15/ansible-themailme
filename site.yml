@@ -1,0 +1,3 @@
+- include: asterisk.yml
+- include: vpn-proxy.yml
+- include: vpn.yml

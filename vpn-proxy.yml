@@ -1,0 +1,5 @@
+- hosts: vpn-proxy
+  roles:
+    - nginx
+    - ntp
+    - monit
